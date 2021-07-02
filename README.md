@@ -1,6 +1,6 @@
 `website-berners-lee` is a fake website.
 
-[https://sporozoite.github.io/website-berners-lee/]( HERE)
+[https://sporozoite.github.io/website-berners-lee/index.html]( HERE)
 
 # Contents
 
