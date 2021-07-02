@@ -6,7 +6,7 @@
 
 - You can learn useless informations about this guy: 
 
-![tim_berners_lee](/Users/user/website-berners-lee/image/tim_berners_lee.jpeg)
+![tim_berners_lee](/image/tim_berners_lee.jpeg)
 
 
 
@@ -20,7 +20,7 @@
 
 - because I am a code student and I was asked to replicate this:
 
-  ![](/Users/user/website-berners-lee/image/goal-css.png)
+  ![](/image/goal-css.png)
 
 ### Usage
 
